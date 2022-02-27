@@ -5,8 +5,8 @@ That I have posted on github :)
 
 # Installation Guide (Windows Only)
 
-1) Press on the green code button and press Download ZIP.
-2) Once the ZIP file has been downloaded extract it.
+1) Press on the green "Code" button and press "Download ZIP".
+2) Once the ZIP file has been downloaded extract it (to extract use winrar or 7zip).
 3) Go to the "Build" folder and make the shortcut of "AutoTyper.exe" to your desktop.
 
 And thats it enjoy!
